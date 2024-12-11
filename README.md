@@ -1,5 +1,5 @@
 # Calculator-demo <hr>
- This is my first git repository,using basic html and css make a Calculator  
+ This is my first git repository,using basic html and css make a Calculator.  
 <!DOCTYPE html>
 <html lang="en">
 <head>
